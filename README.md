@@ -20,9 +20,37 @@ src="https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-s
 
 <br>
 
-<p>I am a data enthusiast and motivated student pursuing a Master's degree in Big Data Analytics with a track record of delivering data-driven solutions to challenging business problems. I have expertise in collecting, cleaning, analyzing, visualizing, and modeling data using several AI technologies such as Machine Learning, Python, R, SQL, and Tableau. Building predictive models using machine learning techniques such as regression, classification, clustering, and dimensionality reduction constitutes one of my expertise.</p>
+## Data Scientist | Data Analyst | Machine Learning enthusiast
+
+# Welcome to my Git profile! 
+<p>I'm Jani Miya Shaik, a highly motivated and passionate Data Scientist with a strong background in Machine learning and Artificial intelligence. With a keen interest in solving complex problems using data-driven approaches, I strive to make a positive impact through innovative and insightful data analysis </p>
 <br>
-<p>Additionally, I developed interactive dashboards and reports with Tableau and PowerBI to share insights and discoveries with stakeholders. I am a quick learner who is constantly willing to broaden my skills and knowledge to improve my data science capabilities. I am an effective communicator and team player who can collaborate with cross-functional teams to deliver data-driven solutions.</p>
+<p>As a Data Scientist, I specialize in developing and implementing machine learning algorithms and models to extract valuable insights from large datasets. I have hands-on experience with various statistical modeling techniques, predictive modeling, and data visualization tools. Currently working on Natural language processing (NLP) and Deep learning, allowing me to tackle diverse challenges across industries.</p>
+<br>
+<p>I am constantly seeking opportunities to expand my knowledge and stay up-to-date with the latest advancements in the field of data science. I am an avid learner and enjoy exploring new technologies and methodologies to enhance my skill set. To stay connected with the data science community, I actively participate in data science meetups and workshops.</p>
+<br>
+
+## Skills:
+- Data analysis and interpretation
+- Machine learning algorithms
+- Predictive modeling
+- Statistical modeling
+- Deep learning
+- Data visualization ( Tableau & Power BI )
+- Python
+- R
+- SQL
+- TensorFlow
+- Tableau
+
+<p>If you're looking for a dedicated and results-driven Data Scientist with a strong background in machine learning and a passion for leveraging data to drive innovation, I would love to connect with you. Let's collaborate and create impactful solutions together! </p>
+<br>
+
+<p>Feel free to reach out to me via LinkedIn or email at "skjanimiya91@gmail.com"</p>
+
+# "Data-driven decisions pave the way for a brighter future."</p>
+
+
 <br>
 <img align='right' alt='Coding width = '300' 
 src="https://assets-global.website-files.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif">

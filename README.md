@@ -20,9 +20,9 @@ src="https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-s
 
 <br>
 
-# Data Scientist | Data Analyst | Machine Learning enthusiast
+### Data Scientist | Data Analyst | Machine Learning enthusiast
 
-# Welcome to my Git profile! 
+### Welcome to my Git profile! 
 <p>I'm Jani Miya Shaik, a highly motivated and passionate Data Scientist with a strong background in Machine learning and Artificial intelligence. With a keen interest in solving complex problems using data-driven approaches, I strive to make a positive impact through innovative and insightful data analysis </p>
 <br>
 <p>As a Data Scientist, I specialize in developing and implementing machine learning algorithms and models to extract valuable insights from large datasets. I have hands-on experience with various statistical modeling techniques, predictive modeling, and data visualization tools. Currently working on Natural language processing (NLP) and Deep learning, allowing me to tackle diverse challenges across industries.</p>
@@ -65,7 +65,7 @@ src="https://assets-global.website-files.com/5c19100c2b50073e6ee69da1/60d35967a8
 - ⚡ **Fun fact:** Data scientists spend about 80% of their time cleaning and preparing data, and only 20% of their time actually analyzing it. So, if you think data science is all about making groundbreaking discoveries, think again—it's mostly about scrubbing dirty data!
 
 <br>
-<h3 align="left">Programming Language</h3>
+### Programming Language
 <p>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>

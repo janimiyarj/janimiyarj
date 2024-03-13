@@ -23,7 +23,7 @@ src="https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-s
 # Data Scientist | Data Analyst | Machine Learning enthusiast
 
 # Welcome to my Git profile! 
-<p>I'm</p> **Jani Miya Shaik**<p>, a highly motivated and passionate Data Scientist with a strong background in Machine learning and Artificial intelligence. With a keen interest in solving complex problems using data-driven approaches, I strive to make a positive impact through innovative and insightful data analysis </p>
+<p>I'm Jani Miya Shaik, a highly motivated and passionate Data Scientist with a strong background in Machine learning and Artificial intelligence. With a keen interest in solving complex problems using data-driven approaches, I strive to make a positive impact through innovative and insightful data analysis </p>
 <br>
 <p>As a Data Scientist, I specialize in developing and implementing machine learning algorithms and models to extract valuable insights from large datasets. I have hands-on experience with various statistical modeling techniques, predictive modeling, and data visualization tools. Currently working on Natural language processing (NLP) and Deep learning, allowing me to tackle diverse challenges across industries.</p>
 <br>

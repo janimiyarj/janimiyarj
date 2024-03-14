@@ -19,11 +19,12 @@ Here are some ideas to get you started:
 src="https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_720_1280/0/1626753867110?e=2147483647&v=beta&t=JOALVxWjySgR37iCdRMhNGmpCyYYDXlPdWk212JXdII"><br>
 
 <br>
-<center>
-  
+
+<div align="center">
+
 ### Data Scientist | Data Analyst | Machine Learning enthusiast
 
-</center>
+</div>
 
 ### Welcome to my Git profile! 
 <p>I'm Jani Miya Shaik, a highly motivated and passionate Data Scientist with a strong background in Machine learning and Artificial intelligence. With a keen interest in solving complex problems using data-driven approaches, I strive to make a positive impact through innovative and insightful data analysis </p>

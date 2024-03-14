@@ -30,7 +30,7 @@ src="https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-s
 <p>I am constantly seeking opportunities to expand my knowledge and stay up-to-date with the latest advancements in the field of data science. I am an avid learner and enjoy exploring new technologies and methodologies to enhance my skill set. To stay connected with the data science community, I actively participate in data science meetups and workshops.</p>
 <br>
 
-## Skills:
+## Key Skills:
 - Data analysis and interpretation
 - Machine learning algorithms
 - Predictive modeling
@@ -48,7 +48,7 @@ src="https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-s
 
 <p>Feel free to reach out to me via LinkedIn or email at "skjanimiya91@gmail.com"</p>
 
-# "Data-driven decisions pave the way for a brighter future."</p>
+### "Data-driven decisions pave the way for a brighter future."</p>
 
 
 <br>
@@ -56,7 +56,7 @@ src="https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-s
 src="https://assets-global.website-files.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif">
 <br>
 
-- 🌱 **I’m currently learning:** NLP, MLOPS,
+- 🌱 **I’m currently learning:** NLP, MLOPS and AIOps
 
 - 💬 **Ask me about:** Data Science, Data Analysis, Data Engineering, Machine Learning, Deep Learning, MLOps
 
@@ -65,6 +65,9 @@ src="https://assets-global.website-files.com/5c19100c2b50073e6ee69da1/60d35967a8
 - ⚡ **Fun fact:** Data scientists spend about 80% of their time cleaning and preparing data, and only 20% of their time actually analyzing it. So, if you think data science is all about making groundbreaking discoveries, think again—it's mostly about scrubbing dirty data!
 
 <br>
+
+## Technical Skills
+
 ### Programming Language
 <p>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
@@ -103,7 +106,7 @@ src="https://assets-global.website-files.com/5c19100c2b50073e6ee69da1/60d35967a8
 </p>
 
 
-<h3 align="left">Frontend Development</h3>
+### Frontend Development
 <p>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
@@ -140,7 +143,7 @@ src="https://assets-global.website-files.com/5c19100c2b50073e6ee69da1/60d35967a8
 </p>
 
 
-<h3>Backend Development</h3>
+### Backend Development
 <p>
     <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
@@ -157,7 +160,7 @@ src="https://assets-global.website-files.com/5c19100c2b50073e6ee69da1/60d35967a8
 </p>
 
 
-<h3>Database</h3>
+### Database
 <p>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
@@ -189,7 +192,7 @@ src="https://assets-global.website-files.com/5c19100c2b50073e6ee69da1/60d35967a8
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>  
 
-<h3>Framework</h3>
+### Framework
 <p>
     <a href="https://laravel.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
@@ -218,7 +221,7 @@ src="https://assets-global.website-files.com/5c19100c2b50073e6ee69da1/60d35967a8
 </p>
 
 
-<h3 align="left">AI / ML</h3>
+### Artificial Intelligence / Machine Learning
 <p>
     <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
@@ -250,7 +253,7 @@ src="https://assets-global.website-files.com/5c19100c2b50073e6ee69da1/60d35967a8
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<h3>Data Visualization</h3>
+### Data Visualization
 <p>
     <a href="https://canvasjs.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/>
@@ -272,7 +275,7 @@ src="https://assets-global.website-files.com/5c19100c2b50073e6ee69da1/60d35967a8
 
 
 
-<h3>Devops</h3>
+### Devops
 <p>
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
@@ -305,7 +308,7 @@ src="https://assets-global.website-files.com/5c19100c2b50073e6ee69da1/60d35967a8
 </p>
 
 
-<h3>Backend as a Service(BaaS)</h3>
+### Backend as a Service(BaaS)
 <p>
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
@@ -319,7 +322,7 @@ src="https://assets-global.website-files.com/5c19100c2b50073e6ee69da1/60d35967a8
 
 
 
-<h3>Software</h3>
+### Software
 <p>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
@@ -343,7 +346,7 @@ src="https://assets-global.website-files.com/5c19100c2b50073e6ee69da1/60d35967a8
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<h3>Testing</h3>
+### Testing
 <p>
     <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/>
@@ -356,7 +359,7 @@ src="https://assets-global.website-files.com/5c19100c2b50073e6ee69da1/60d35967a8
 </p>
 
 
-<h3> Other</h3>
+### Other
 <p>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
@@ -374,12 +377,12 @@ src="https://assets-global.website-files.com/5c19100c2b50073e6ee69da1/60d35967a8
 <br>
 
 
-## 🌐 Socials:
+### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jani-miya-shaik/) 
 
 <br>
 
-# 📊 GitHub Stats:
+### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=janimiyarj&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=janimiyarj&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=janimiyarj&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)

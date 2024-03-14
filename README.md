@@ -50,7 +50,7 @@ src="https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-s
 <p>If you're looking for a dedicated and results-driven Data Scientist with a strong background in machine learning and a passion for leveraging data to drive innovation, I would love to connect with you. Let's collaborate and create impactful solutions together! </p>
 <br>
 
-<p>Feel free to reach out to me via LinkedIn or email at "skjanimiya91@gmail.com"</p>
+<p>Feel free to reach out to me via LinkedIn or email at <b>"skjanimiya91@gmail.com"</b></p>
 
 ### "Data-driven decisions pave the way for a brighter future."</p>
 
@@ -64,8 +64,6 @@ src="https://assets-global.website-files.com/5c19100c2b50073e6ee69da1/60d35967a8
 - 🌱 **I’m currently learning:** NLP, MLOPS and AIOps
 
 - 💬 **Ask me about:** Data Science, Data Analysis, Data Engineering, Machine Learning, Deep Learning, MLOps
-
-- 📫 **How to reach me:** janimiyarj@gmail.com
 
 - ⚡ **Fun fact:** Data scientists spend about 80% of their time cleaning and preparing data, and only 20% of their time actually analyzing it. So, if you think data science is all about making groundbreaking discoveries, think again—it's mostly about scrubbing dirty data!
 
